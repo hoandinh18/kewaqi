@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kewaqi.com	TRUE	/	FALSE	1999999999	PHPSESSID	2eme613mruj9ch4nd3gnjmsq13
+kewaqi.com	TRUE	/	FALSE	1999999999	espcms_web_login_verification_code	Jc0ZOXnHau9SnjEpqRY8tw%3D%3D
+
