@@ -45,6 +45,7 @@
 *{
 	box-sizing: border-box;
 	outline: none;
+	font-family: 'Montserrat', sans-serif !important;
 }
 html, body{
 	width:100%;
@@ -409,6 +410,7 @@ header.fixed .header-tools .header-search,
 header.on .header-tools .header-search{
 	margin-left: 20px;
 }
+
 .overlay {
     position: fixed;
     left: 0;

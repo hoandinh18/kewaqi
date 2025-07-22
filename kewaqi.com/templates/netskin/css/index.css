@@ -81,7 +81,7 @@
 }
 
 .in-title{
-    font-size: 60px;
+    font-size: 40px;
     font-family: 'Fontstyle2';
     font-weight: 700;
     text-align: center;
@@ -172,7 +172,7 @@
 .in-type .list a .word .div2 .left{
 	width: 60%;
 	font-family: 'Fontstyle2';
-	font-size: 36px;
+	font-size: 28px;
 	text-transform: uppercase;
 	line-height: 36px;
 	position: relative;
@@ -440,7 +440,7 @@
 	font-family:'Fontstyle2'; 
 	font-size: 60px;
 	line-height: 60px;
-	text-decoration: underline;
+	text-decoration: none;
 	text-transform: uppercase;
 	margin-top: 40px;
 }
